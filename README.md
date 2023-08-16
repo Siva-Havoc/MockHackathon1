@@ -1,2 +1,2 @@
 # MockHackathon1
-mock hackathon leven 1 conducted for preparation for worldline
+mock hackathon level 1 conducted for preparation for worldline
